@@ -1,5 +1,4 @@
 # Weather-Project
-Weather by Accuweather API
 
 About WeatherProject :
 
