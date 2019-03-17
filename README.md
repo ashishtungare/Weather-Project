@@ -1,5 +1,3 @@
-# Weather-Project
-
 About WeatherProject :
 
 1. The project is created in Netbeans (Can compile in Eclipse)
@@ -7,7 +5,7 @@ About WeatherProject :
 2. The latest version of Spring BOOT envirnoment is used (Ver 2.1.3)
 
 3. The JSON is used for all data handling. It was a natural choice because the data coming from Accuweather is in
-    JSON format and Java has very good support for handling JSON (As against XML)
+    JSON format and Java has very support for handling JSON (As against XML)
 
 4. Due to Spring BOOT, code is very compact
 
@@ -15,7 +13,7 @@ About WeatherProject :
 
 6. The Spring BOOT generates all the test cases and executes them at the time of build itself
 
-7. Build the project in any IDE and copy war file to Tomcat's webapps folder
+7. Build the project in any IDE and copy war file to Tomcat's webapp folder
 
 8. Start Tomcat
 
