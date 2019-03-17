@@ -5,7 +5,7 @@ About WeatherProject :
 2. The latest version of Spring BOOT envirnoment is used (Ver 2.1.3)
 
 3. The JSON is used for all data handling. It was a natural choice because the data coming from Accuweather is in
-    JSON format and Java has very goot support for handling JSON (As against XML)
+    JSON format and Java has very good support for handling JSON (As against XML)
 
 4. Due to Spring BOOT, code is very compact
 
